@@ -89,7 +89,9 @@ input[type="submit"] {
     font-weight: 500;
     background: #1c1c1c;
     color: white;
-
+}
+.button:hover {
+    background: #2c2c2c;
 }
 #header h1 {
   font-size: 3.2em;
@@ -196,3 +198,5 @@ input[type="submit"] {
     font-weight: 500;
     margin: 1rem;
 }
+
+
